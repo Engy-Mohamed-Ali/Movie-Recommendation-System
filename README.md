@@ -288,3 +288,18 @@ The Hybrid model demonstrated how combining multiple recommendation strategies c
 - TF-IDF
 - Cosine Similarity
 - SVD
+
+---
+
+# 🌐 Live Deployment
+
+🚀 The application is deployed and publicly accessible:
+
+🔗 **Try it here:**  
+https://movie-recommendation-system-cloudplatform.streamlit.app/
+
+---
+
+✔ No installation required  
+✔ Fully interactive Streamlit app  
+✔ Real-time movie recommendations
