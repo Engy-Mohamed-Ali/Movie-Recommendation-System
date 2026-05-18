@@ -296,8 +296,7 @@ The Hybrid model demonstrated how combining multiple recommendation strategies c
 🚀 The application is deployed and publicly accessible:
 
 🔗 **Try it here:**  
-https://movie-recommendation-system-cloudplatform.streamlit.app/
-
+https://movie-recommendation-system-engymohamedhanafy.streamlit.app/
 ---
 
 ✔ No installation required  
